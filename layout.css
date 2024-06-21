@@ -201,7 +201,6 @@ display:none;
 }
 
 #CA{
-    
     position: absolute;
     background-color: #3A606E;
    
@@ -217,7 +216,6 @@ display:none;
     justify-content: center;
     z-index: 10;
     border-radius: 100px;
-    
 }
 
 #CA {
@@ -253,8 +251,6 @@ display:none;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     z-index: 11;
     color:white;
-    
-
   }
 
 .roadmap {

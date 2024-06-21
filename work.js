@@ -58,8 +58,8 @@ menuContainer.addEventListener('mouseleave', () => {
 
 const links = [
   'https://www.youtube.com/watch?v=j9uA_hs_y-4',
-  'link2.html',
-  'link3.html',
+  'https://pump.fun/AkJNewpUKDHjfVSGSNMSxQa6JkugwGDxf5guPxwMpump',
+  'https://t.me/+7o9RysS8DpszYTNh',
   'https://x.com/angicatsol'
 ];
 
